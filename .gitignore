@@ -1,0 +1,10 @@
+phd_discovery_env/
+env/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+.DS_Store

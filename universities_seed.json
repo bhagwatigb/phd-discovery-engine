@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Harvard University",
+    "regional_rank": 1,
+    "region": "North America",
+    "domain": "harvard.edu"
+  },
+  {
+    "name": "University of Oxford",
+    "regional_rank": 2,
+    "region": "North America",
+    "domain": "oxford.ac.uk"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "regional_rank": 3,
+    "region": "North America",
+    "domain": "jh.edu"
+  },
+  {
+    "name": "Stanford University",
+    "regional_rank": 4,
+    "region": "North America",
+    "domain": "stanford.edu"
+  },
+  {
+    "name": "University of Cambridge",
+    "regional_rank": 5,
+    "region": "North America",
+    "domain": "cam.ac.uk"
+  },
+  {
+    "name": "Imperial College London",
+    "regional_rank": 6,
+    "region": "North America",
+    "domain": "imperial.ac.uk"
+  },
+  {
+    "name": "UCL",
+    "regional_rank": 7,
+    "region": "North America",
+    "domain": "ucl.edu"
+  },
+  {
+    "name": "University of California, San Francisco",
+    "regional_rank": 8,
+    "region": "North America",
+    "domain": "ucsf.edu"
+  },
+  {
+    "name": "King's College London",
+    "regional_rank": 9,
+    "region": "North America",
+    "domain": "kingston.edu"
+  },
+  {
+    "name": "Yale University",
+    "regional_rank": 10,
+    "region": "North America",
+    "domain": "yale.edu"
+  },
+  {
+    "name": "Karolinska Institutet",
+    "regional_rank": 11,
+    "region": "North America",
+    "domain": "ki.se"
+  },
+  {
+    "name": "University of Toronto",
+    "regional_rank": 12,
+    "region": "North America",
+    "domain": "utoronto.ca"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA)",
+    "regional_rank": 13,
+    "region": "North America",
+    "domain": "ucla.edu"
+  },
+  {
+    "name": "National University of Singapore (NUS)",
+    "regional_rank": 14,
+    "region": "North America",
+    "domain": "nus.edu"
+  },
+  {
+    "name": "The University of Melbourne",
+    "regional_rank": 15,
+    "region": "North America",
+    "domain": "unimelb.edu"
+  },
+  {
+    "name": "University of California, Berkeley (UCB)",
+    "regional_rank": 16,
+    "region": "North America",
+    "domain": "berkeley.edu"
+  },
+  {
+    "name": "University of California, San Diego (UCSD)",
+    "regional_rank": 17,
+    "region": "North America",
+    "domain": "ucsd.edu"
+  },
+  {
+    "name": "Cornell University",
+    "regional_rank": 18,
+    "region": "North America",
+    "domain": "cornell.edu"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "regional_rank": 19,
+    "region": "North America",
+    "domain": "upenn.edu"
+  },
+  {
+    "name": "The University of Edinburgh",
+    "regional_rank": 20,
+    "region": "North America",
+    "domain": "ed.ac.uk"
+  },
+  {
+    "name": "University of Washington",
+    "regional_rank": 21,
+    "region": "North America",
+    "domain": "uw.edu"
+  },
+  {
+    "name": "Columbia University",
+    "regional_rank": 22,
+    "region": "North America",
+    "domain": "columbia.edu"
+  },
+  {
+    "name": "Duke University",
+    "regional_rank": 23,
+    "region": "North America",
+    "domain": "duke.edu"
+  },
+  {
+    "name": "The University of Sydney",
+    "regional_rank": 24,
+    "region": "North America",
+    "domain": "sydney.edu.au"
+  },
+  {
+    "name": "University of British Columbia",
+    "regional_rank": 25,
+    "region": "North America",
+    "domain": "ubc.ca"
+  },
+  {
+    "name": "Monash University",
+    "regional_rank": 26,
+    "region": "North America",
+    "domain": "monash.edu"
+  },
+  {
+    "name": "The University of Manchester",
+    "regional_rank": 27,
+    "region": "North America",
+    "domain": "manchester.ac.uk"
+  },
+  {
+    "name": "McGill University",
+    "regional_rank": 28,
+    "region": "North America",
+    "domain": "mcgill.ca"
+  },
+  {
+    "name": "The University of Hong Kong",
+    "regional_rank": 29,
+    "region": "North America",
+    "domain": "hku.hk"
+  },
+  {
+    "name": "KU Leuven",
+    "regional_rank": 30,
+    "region": "North America",
+    "domain": "student.kuleuven.be"
+  },
+  {
+    "name": "Massachusetts Institute of Technology (MIT)",
+    "regional_rank": 4,
+    "region": "North America",
+    "domain": "mit.edu"
+  },
+  {
+    "name": "ETH Zurich",
+    "regional_rank": 14,
+    "region": "North America",
+    "domain": "ethzurich.edu"
+  },
+  {
+    "name": "California Institute of Technology (Caltech)",
+    "regional_rank": 20,
+    "region": "North America",
+    "domain": "caltech.edu"
+  },
+  {
+    "name": "Tsinghua University",
+    "regional_rank": 22,
+    "region": "North America",
+    "domain": "tsinghua.edu.cn"
+  },
+  {
+    "name": "The University of Tokyo",
+    "regional_rank": 23,
+    "region": "North America",
+    "domain": "u-tokyo.ac.jp"
+  },
+  {
+    "name": "Peking University",
+    "regional_rank": 24,
+    "region": "North America",
+    "domain": "pku.edu.cn"
+  },
+  {
+    "name": "Princeton University",
+    "regional_rank": 27,
+    "region": "North America",
+    "domain": "princeton.edu"
+  },
+  {
+    "name": "Universit\u00e4t Heidelberg",
+    "regional_rank": 28,
+    "region": "North America",
+    "domain": "uni-hamburg.de"
+  },
+  {
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "regional_rank": 29,
+    "region": "North America",
+    "domain": "lmu.de"
+  }
+]
